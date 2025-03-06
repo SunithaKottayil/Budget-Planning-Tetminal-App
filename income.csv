@@ -1,0 +1,12 @@
+UserID,UserName,IncomeID,Amount,Source
+1001,John Smith,111,30000,Salary
+1001,John Smith,112,5000,Freelance
+1002,Anna Daniel,211,25000,Salary
+1002,Anna Daniel,212,7000,Investment
+1003,Susan Dev,311,35000,Salary
+1003,Susan Dev,312,12000,Freelance
+1004,Frank Kansen,411,28000,Salary
+1004,Frank Kansen,412,15000,Bonus
+1005,James Clein,511,20000,Salary
+1005,James Clein,512,9000,Consulting
+1001,John Smith,113,100.00,Freelance

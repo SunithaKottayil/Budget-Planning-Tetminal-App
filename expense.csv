@@ -1,0 +1,19 @@
+UserID,UserName,ExpenseID,Amount,Category,BudgetLimit
+1001,John Smith,101,15000,Rent,17000
+1001,John Smith,102,5000,Groceries,7000
+1001,John Smith,103,3000,Transport,4000
+1001,John Smith,104,2500,Entertainment,2000
+1002,Anna Daniel,201,10000,Rent,10000
+1002,Anna Daniel,202,4000,Groceries,5000
+1002,Anna Daniel,203,5000,Transport,4000
+1002,Anna Daniel,204,2000,Entertainment,3000
+1003,Susan Dev,301,15000,Rent,15000
+1003,Susan Dev,302,6000,Groceries,7000
+1003,Susan Dev,303,8000,Transport,8000
+1003,Susan Dev,304,7000,Entertainment,6000
+1004,Frank Kansen,401,13000,Rent,13000
+1004,Frank Kansen,402,4000,Groceries,5000
+1004,Frank Kansen,403,3000,Transport,3000
+1005,James Clein,501,11000,Rent,12000
+1005,James Clein,502,5000,Groceries,4000
+1005,James Clein,503,3000,Transport,2000
